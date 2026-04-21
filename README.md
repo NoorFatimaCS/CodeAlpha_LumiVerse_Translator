@@ -50,7 +50,7 @@ To enhance usability and demonstrate advanced AI implementation, I have added:
 
 
 ## 📸 Interface Preview
-![App Demo Screenshot](https://raw.githubusercontent.com/noorfatimaimran/CodeAlpha_LumiVerse_Translator/main/assets/image_2.png.png)
+![App Demo Screenshot]image_2.png.png
 
 
 
